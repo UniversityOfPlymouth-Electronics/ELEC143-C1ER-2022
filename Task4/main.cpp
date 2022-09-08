@@ -15,13 +15,13 @@ int main()
     // ***** MODIFY THE CODE BELOW HERE *****
     // For full marks, debounce the switches with suitable delays
 
-    // 1. Wait for EITHER or BOTH switches to be pressed and released
+    // 1. Wait for EITHER switch to be pressed and released
 
-    // 2. Wait until BOTH switches are released
+    // 2. Wait for BOTH switches to be pressed and released
 
     while (true) {
 
-        // 3. Inside this loop, if either switch is pressed and released, toggle the RED LED
+        // 3. Inside this loop, if one or both switches are pressed and released, toggle the RED LED
 
     }
 

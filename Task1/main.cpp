@@ -9,7 +9,7 @@ int main()
     leds = 0;
     // ***** MODIFY THE CODE BELOW HERE *****
 
-    // 1. Write a for-loop to count from -50 to +50 in steps of 5 - print the results to the serial terminal
+    // 1. Write a for-loop to count from 0 to +150 in steps of 5 - print the results to the serial terminal
 
     // 2. Write a for-loop to count from 0 down to -100 in steps of 20 - print the results to the serial terminal
 

@@ -33,9 +33,9 @@ int main()
         // For full marks, debounce the switches with suitable delays
 
         // This is a "combination lock" activity. Write some code to detect the following sequence 
-        //      SW2 and SW3 held down together then released
         //      SW2 and SW4 held down together then released
         //      SW3 and SW4 held down together then released
+        //      SW2 and SW3 held down together then released
 
         // If the full sequence is entered, correctly, the green LED should flash 3 times
         // If at the end, the sequence is entered incorrectly, the red LED should light and the buzzer should sound for 5 seconds

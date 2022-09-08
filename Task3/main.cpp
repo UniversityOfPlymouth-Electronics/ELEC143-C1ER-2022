@@ -26,10 +26,10 @@ int main()
         //2. Turn ON the yellow LED using a bit-wise OR operator (without affecting the others)
 
 
-        //3. Turn OFF the green LED using a bit-wise AND operator (without affecting the others)
+        //3. Turn OFF the red LED using a bit-wise AND operator (without affecting the others)
 
 
-        //4. Flash the red LED 2-times using the bit-wise XOR operator (without affecting the others)
+        //4. Flash ALL LEDs 2-times using the bit-wise XOR operator 
 
         
     }
